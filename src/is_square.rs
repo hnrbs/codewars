@@ -28,6 +28,8 @@
 // 25  =>  true
 // 26  =>  false
 
+// https://www.codewars.com/kata/54c27a33fb7da0db0100040e/solutions/rust
+
 fn is_square(n: i64) -> bool {
     if n < 0 {
         return false;
