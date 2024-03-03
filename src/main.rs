@@ -1,3 +1,4 @@
+mod accum;
 mod is_square;
 mod reverse_digits_array;
 
